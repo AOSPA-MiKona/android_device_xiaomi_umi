@@ -431,6 +431,11 @@ vendor/firmware/cs35l41-dsp1-spk-prot-revb2.wmfw
 vendor/firmware/cs35l41-dsp1-spk-prot.bin
 vendor/firmware/cs35l41-dsp1-spk-prot.wmfw
 
+# Lights
+vendor/bin/hw/android.hardware.lights-service.qti
+vendor/etc/init/android.hardware.lights-qti.rc
+-vendor/etc/vintf/manifest/android.hardware.lights-qti.xml
+
 # OMX
 vendor/lib/libAlacSwDec.so
 vendor/lib/libApeSwDec.so
