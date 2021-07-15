@@ -27,9 +27,6 @@ SOONG_CONFIG_XIAOMI_KONA_FOD_POS_X = 439
 SOONG_CONFIG_XIAOMI_KONA_FOD_POS_Y = 1806
 SOONG_CONFIG_XIAOMI_KONA_FOD_SIZE = 197
 
-# Gestures
-TARGET_TAP_TO_WAKE_NODE := "/sys/touchpanel/double_tap"
-
 # HIDL
 DEVICE_MANIFEST_FILE += $(DEVICE_PATH)/vintf/manifest.xml
 DEVICE_FRAMEWORK_COMPATIBILITY_MATRIX_FILE += $(DEVICE_PATH)/vintf/xiaomi_vendor_framework_compatibility_matrix.xml
