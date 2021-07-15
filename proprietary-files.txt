@@ -77,6 +77,7 @@ vendor/lib64/libssrec.so
 # Audio-Hardware
 vendor/lib/hw/vendor.qti.hardware.audiohalext@1.0-impl.so
 vendor/lib/vndk/libxlog.so
+vendor/lib/liba2dpoffload.so
 vendor/lib/libaudioconfigstore.so
 vendor/lib/libaudio_log_utils.so
 vendor/lib/libaudioroute_ext.so
@@ -84,6 +85,7 @@ vendor/lib/vendor.qti.hardware.audiohalext@1.0.so
 vendor/lib/hw/audio.primary.kona.so
 vendor/lib64/hw/audio.primary.kona.so
 vendor/lib64/hw/vendor.qti.hardware.audiohalext@1.0-impl.so
+vendor/lib64/liba2dpoffload.so
 vendor/lib64/libaudio_log_utils.so
 vendor/lib64/libaudioconfigstore.so
 vendor/lib64/libaudioroute_ext.so
